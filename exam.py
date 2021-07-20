@@ -497,7 +497,7 @@ def get_num_of_task(dfs):
 if __name__ == "__main__":
 
     # generate test set
-    if False:
+    if True:
         if test_mini:
             tss = gen_mini_sets()
             fn = "experiment_tasks_mini.bin"
