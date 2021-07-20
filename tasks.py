@@ -715,7 +715,6 @@ if __name__ == "__main__":
         simple_test('./sampleTasks/pt7.txt')
         simple_test('./sampleTasks/pt4.txt')
         simple_test('./sampleTasks/pt5.txt')
-        simple_test('../beyond/task_set_erd_miss_50/t1392')
 
     if False:
         with open('failed_ts', 'rb') as f:
